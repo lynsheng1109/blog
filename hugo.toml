@@ -1,4 +1,0 @@
-baseURL = 'https://blog-six-coral-98.vercel.app/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "stack"
